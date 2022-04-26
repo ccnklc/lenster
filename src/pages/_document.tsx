@@ -9,7 +9,7 @@ class LensterDocument extends Document {
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
           <link
-            href="https://assets.lenster.xyz/css/font.css"
+            href="https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap"
             rel="stylesheet"
           />
         </Head>
